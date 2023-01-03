@@ -1,2 +1,2 @@
-# Python-Programming
-Some basic Python
+# Python-Starter
+Some basic Pythoning
